@@ -31,19 +31,30 @@ This system allows administrators to manage student records with full CRUD funct
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page]([screenshots/login.png](http://localhost:8080/StudentWebApp/login.html))
+![Login Page](screenshots/login.png)
 
-### 📊 Dashboard
-![Dashboard]([screenshots/dashboard.png](http://localhost:8080/StudentWebApp/index.html))
-
-### ➕ Add Student
-![Add Student]([screenshots/addstudent.png](http://localhost:8080/StudentWebApp/addStudent.html))
-
-### 📋 View Students
-![View Students]( http://localhost:8080/StudentWebApp/viewStudents)
+👉 Go to login page: http://localhost:8080/StudentWebApp/login.html
 
 ---
 
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+👉 Go to dashboard: http://localhost:8080/StudentWebApp/index.html
+
+---
+
+### ➕ Add Student
+![Add Student](screenshots/addstudent.png)
+
+👉 Go to add student page: http://localhost:8080/StudentWebApp/addStudent.html
+
+---
+
+### 📋 View Students
+![View Students](screenshots/viewstudents.png)
+
+👉 Go to view page: http://localhost:8080/StudentWebApp/viewStudents
 ## ⚙️ Project Setup Guide
 
 ### 1️⃣ Install Required Tools
