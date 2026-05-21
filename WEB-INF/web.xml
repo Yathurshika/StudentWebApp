@@ -1,0 +1,75 @@
+<web-app>
+
+    <servlet>
+        <servlet-name>AddStudentServlet</servlet-name>
+        <servlet-class>com.sms.AddStudentServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>AddStudentServlet</servlet-name>
+        <url-pattern>/addStudent</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+    <servlet-name>ViewStudentsServlet</servlet-name>
+    <servlet-class>com.sms.ViewStudentsServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>ViewStudentsServlet</servlet-name>
+    <url-pattern>/viewStudents</url-pattern>
+</servlet-mapping>
+     
+	 <servlet>
+    <servlet-name>DeleteStudentServlet</servlet-name>
+    <servlet-class>com.sms.DeleteStudentServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>DeleteStudentServlet</servlet-name>
+    <url-pattern>/deleteStudent</url-pattern>
+</servlet-mapping>
+   
+   <servlet>
+    <servlet-name>EditStudentFormServlet</servlet-name>
+    <servlet-class>com.sms.EditStudentFormServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>EditStudentFormServlet</servlet-name>
+    <url-pattern>/editStudentForm</url-pattern>
+</servlet-mapping>
+
+
+<servlet>
+    <servlet-name>UpdateStudentServlet</servlet-name>
+    <servlet-class>com.sms.UpdateStudentServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>UpdateStudentServlet</servlet-name>
+    <url-pattern>/updateStudent</url-pattern>
+</servlet-mapping>
+
+<servlet>
+    <servlet-name>TotalStudentsServlet</servlet-name>
+    <servlet-class>com.sms.TotalStudentsServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>TotalStudentsServlet</servlet-name>
+    <url-pattern>/totalStudents</url-pattern>
+</servlet-mapping>
+
+
+<servlet>
+    <servlet-name>LoginServlet</servlet-name>
+    <servlet-class>com.sms.LoginServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>LoginServlet</servlet-name>
+    <url-pattern>/login</url-pattern>
+</servlet-mapping>
+
+</web-app>
