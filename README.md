@@ -31,16 +31,16 @@ This system allows administrators to manage student records with full CRUD funct
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](screenshots/login.png)
+![Login Page]([screenshots/login.png](http://localhost:8080/StudentWebApp/login.html))
 
 ### 📊 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard]([screenshots/dashboard.png](http://localhost:8080/StudentWebApp/index.html))
 
 ### ➕ Add Student
-![Add Student](screenshots/addstudent.png)
+![Add Student]([screenshots/addstudent.png](http://localhost:8080/StudentWebApp/addStudent.html))
 
 ### 📋 View Students
-![View Students](screenshots/viewstudents.png)
+![View Students]( http://localhost:8080/StudentWebApp/viewStudents)
 
 ---
 
