@@ -52,10 +52,9 @@ This system allows administrators to manage student records with full CRUD funct
 ### 1️⃣ Install Required Tools
 
 - Java JDK 8+
-- Eclipse / NetBeans / IntelliJ
+- Eclipse
 - Apache Tomcat 9+
 - MySQL Server
-- Git (optional)
 
 ---
 
